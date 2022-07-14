@@ -1,0 +1,3 @@
+//ADMIN PAGE
+  1). adminid(userid,password)
+  2). userid(sid,sname,password,email,session,subject)
